@@ -1,7 +1,7 @@
 {
   "name": "webpack_lavric",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webpack template by Lavric",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
